@@ -1,7 +1,5 @@
 # Assessment: Todos Part 1
 
-Fork then clone this repository: [https://gitlab.com/kenzie-academy/se/fe/react/assessment---todo-app-part-1](https://gitlab.com/kenzie-academy/se/fe/react/assessment---todo-app-part-1)
-
 For this assessment, you'll be extending a todo application such that users can actually interact with it.
 
 Here's what the final product should look like:
@@ -159,9 +157,3 @@ When a user clicks the "X" on the right of a Todo, it removes it from the list.
 ### User Can Delete all Todos Marked as Complete:
 
 When a user clicks the button 'Clear Completed' it will delete all todos that are marked as complete.
-
-## Submission
-
-You **will** be required to submit a deployed application. If you instead
-submit a link to a repository (that is, only code), you _will_ be awarded
-**0** points.
